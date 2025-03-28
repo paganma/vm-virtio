@@ -1,3 +1,6 @@
 [submodule "rust-vmm-ci"]
 	path = rust-vmm-ci
 	url = https://github.com/rust-vmm/rust-vmm-ci.git
+[submodule "vendor/vm-memory"]
+	path = vendor/vm-memory
+	url = git@github.com:rust-vmm/vm-memory.git
